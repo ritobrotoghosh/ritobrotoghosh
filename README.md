@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **mr.ritoghosh@gmail.com**
 
-- 📄 Know about my experiences [on LinkedIn](www.linkedin.com/in/ritobrotoghosh)
-
 - ⚡ Fun fact **I spend 90% of my time cleaning data and the remaining 10% wondering how it got so messy in the first place. It's a bit like being a digital detective in a never-ending episode of 'Data CSI'. So, you can call me the Sherlock Holmes of spreadsheets!**
 
 <h3 align="left">Connect with me:</h3>
