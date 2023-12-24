@@ -7,6 +7,8 @@
 
 - 💬 Ask me about **Excel, SQL, Power BI, NumPy, Pandas, Matplotlib, Seaborn and Plotly**
 
+- <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 - 📫 How to reach me **mr.ritoghosh@gmail.com**
 
 - ⚡ Fun fact **I spend 90% of my time cleaning data and the remaining 10% wondering how it got so messy in the first place. It's a bit like being a digital detective in a never-ending episode of 'Data CSI'. So, you can call me the Sherlock Holmes of spreadsheets!**
