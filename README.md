@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritobrotoghosh&label=Profile%20views&color=0e75b6&style=flat" alt="ritobrotoghosh" /> </p>
 
+<img align="right" alt="Coding" width="200" src="">
+
 - 🔭 I’m currently working on **expanding my skill set through ongoing learning and engaging in projects across diverse domains**
 
 - 💬 Ask me about **Excel, SQL, Power BI, NumPy, Pandas, Matplotlib, Seaborn and Plotly**
