@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rito</h1>
 <h3 align="center">Trying to absorb the Artistry of a Data Maestro while crafting narratives from Muddled Metrics</h3>
 
-<img align="right" alt="Coding" width="150" src="https://github.com/ritobrotoghosh/ritobrotoghosh/blob/main/xero-code.gif">
+<img align="right" alt="Coding" width="140" src="https://github.com/ritobrotoghosh/ritobrotoghosh/blob/main/xero-code.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritobrotoghosh&label=Profile%20views&color=0e75b6&style=flat" alt="ritobrotoghosh" /> </p>
 
