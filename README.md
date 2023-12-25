@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritobrotoghosh&label=Profile%20views&color=0e75b6&style=flat" alt="ritobrotoghosh" /> </p>
 
-<img align="right" alt="Coding" width="200" src="https://github.com/ritobrotoghosh/ritobrotoghosh/blob/main/data-code.gif">
-
 - 🔭 I’m currently working on **expanding my skill set through ongoing learning and engaging in projects across diverse domains**
 
 - 💬 Ask me about **Excel, SQL, Power BI, NumPy, Pandas, Matplotlib, Seaborn and Plotly**
@@ -14,6 +12,8 @@
 - 📫 How to reach me **mr.ritoghosh@gmail.com**
 
 - ⚡ Fun fact **I spend 90% of my time cleaning data and the remaining 10% wondering how it got so messy in the first place. It's a bit like being a digital detective in a never-ending episode of 'Data CSI'. So, you can call me the Sherlock Holmes of spreadsheets!**
+
+<img align="right" alt="Coding" width="200" src="https://github.com/ritobrotoghosh/ritobrotoghosh/blob/main/data-code.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
