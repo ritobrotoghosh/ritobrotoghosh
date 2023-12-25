@@ -25,4 +25,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritobrotoghosh&show_icons=true&locale=en" alt="ritobrotoghosh" /></p>
 
+[![Rito's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritobrotoghosh)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritobrotoghosh&" alt="ritobrotoghosh" /></p>
