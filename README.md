@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rito</h1>
 <h3 align="center">Trying to absorb the Artistry of a Data Maestro while crafting narratives from Muddled Metrics</h3>
 
-<img align="right" alt="Coding" width="100" src="https://github.com/ritobrotoghosh/ritobrotoghosh/blob/main/xero-code.gif">
+<img align="right" alt="Coding" width="150" src="https://github.com/ritobrotoghosh/ritobrotoghosh/blob/main/xero-code.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritobrotoghosh&label=Profile%20views&color=0e75b6&style=flat" alt="ritobrotoghosh" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mr.ritoghosh@gmail.com**
 
-<img align="right" alt="Coding" width="100" src="https://github.com/ritobrotoghosh/ritobrotoghosh/blob/main/data-code.gif">
+<img align="right" alt="Coding" width="150" src="https://github.com/ritobrotoghosh/ritobrotoghosh/blob/main/data-code.gif">
 
 - ⚡ Fun fact **I spend 90% of my time cleaning data and the remaining 10% wondering how it got so messy in the first place. It's a bit like being a digital detective in a never-ending episode of 'Data CSI'. So, you can call me the Sherlock Holmes of spreadsheets!**
 
