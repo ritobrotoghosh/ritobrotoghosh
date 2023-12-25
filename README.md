@@ -11,9 +11,9 @@
 
 - 📫 How to reach me **mr.ritoghosh@gmail.com**
 
-- ⚡ Fun fact **I spend 90% of my time cleaning data and the remaining 10% wondering how it got so messy in the first place. It's a bit like being a digital detective in a never-ending episode of 'Data CSI'. So, you can call me the Sherlock Holmes of spreadsheets!**
+<img align="right" alt="Coding" width="100" src="https://github.com/ritobrotoghosh/ritobrotoghosh/blob/main/data-code.gif">
 
-<img align="right" alt="Coding" width="200" src="https://github.com/ritobrotoghosh/ritobrotoghosh/blob/main/data-code.gif">
+- ⚡ Fun fact **I spend 90% of my time cleaning data and the remaining 10% wondering how it got so messy in the first place. It's a bit like being a digital detective in a never-ending episode of 'Data CSI'. So, you can call me the Sherlock Holmes of spreadsheets!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
